@@ -1,0 +1,113 @@
+body {
+    color: rgb(105, 7, 7);
+    background: black;
+margin: 0px;
+font-family: "Pirata One", system-ui;
+}
+
+
+
+.chamada-texto {
+
+    margin-right: 5%;
+}
+ 
+
+
+header {
+    border-bottom: solid 2px rgb(6, 108, 241);
+    padding: 20px;
+    font-size: 50px;
+    color: rgb(42, 122, 228);
+}
+
+.quinta {
+    background: rgb(121 73 42);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+element.style {
+    padding-bottom: 80px;
+}
+
+h1 {
+    font-size: 35px;
+    color: rgb(19, 19, 63) 
+}
+p {
+    font-size: 20px;
+}
+h2 { 
+    font-size: 35px;
+    color: rgb(52, 52, 143) 
+}
+h3 {
+    font-size: 35px;
+color: rgb(52, 52, 143)
+}
+
+h4 {
+    font-size: 35px;
+    color: rgb(52, 52, 143)
+}
+
+.alan {
+    background: rgb(27 157 154);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.zoka {
+    background: rgb(253 135 74);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.misteriosa {
+    background: rgb(226 187 141);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.quinta {
+    opacity: 0.5;
+}
+
+.quinta:hover {
+    opacity: 1.0;
+}
+
+.alan{
+    opacity: 0.5;
+}
+
+.alan:hover {
+opacity: 1.0;
+}
+
+.zoka {
+    opacity: 0.5;
+}
+
+.zoka:hover {
+opacity: 1.0;
+}
+
+.misteriosa {
+    opacity: 0.5;
+}
+
+.misteriosa:hover {
+    opacity: 1.0;
+}
